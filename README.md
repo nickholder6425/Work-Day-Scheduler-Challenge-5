@@ -15,7 +15,7 @@ URL: https://nickholder6425.github.io/Work-Day-Scheduler-Challenge-5/
 ## Resources Used
 1. Bootcamp Materials - Third-Party-APIs Activities
 2. https://github.com/dingogap/My-Work-Day-Scheduler
-3. [MDM Web Docs][def2] addEventListener Method
+3. ![MDM Web Docs](def3)addEventListener Method
 4. [MDM Web Docs][def3] setInterval() global function
 5. [MDM Web Docs][def4] Element:prepend() method
 6. [MDM Web Docs][def5] Array.prototype.sort()
