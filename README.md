@@ -3,3 +3,12 @@
 ## Description
 
 A simple calendar application that allows user to save events for each hour of a typical work day (9am-5pm).
+
+## Screenshot/Demo gif
+
+![Screenshot-Demo-gif](./assets/images/demo.gif)
+
+GitHub:
+
+URL:
+
