@@ -12,8 +12,8 @@ GitHub:https://github.com/nickholder6425/Work-Day-Scheduler-Challenge-5
 
 URL: https://nickholder6425.github.io/Work-Day-Scheduler-Challenge-5/
 
-## ## Resources Used
-1. Bootcamp Materials - Lesson Material from Week 5
+## Resources Used
+1. Bootcamp Materials - Third-Party-APIs Activities
 2. https://github.com/dingogap/My-Work-Day-Scheduler
 3. Group tutorial sessions
 4. [MDM Web Docs][def2] addEventListener Method
