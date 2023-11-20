@@ -12,6 +12,6 @@ GitHub:https://github.com/nickholder6425/Work-Day-Scheduler-Challenge-5
 
 URL: https://nickholder6425.github.io/Work-Day-Scheduler-Challenge-5/
 
-## Resources Used
+## Resource Used
 
 https://github.com/dingogap/My-Work-Day-Scheduler
